@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Uploading photo_2025-12-10_18-48-22.jpg…]()
 
 # 👨‍💻 Full-Stack Developer
 
