@@ -1,6 +1,5 @@
 ## Hi there 👋
 ![photo_2025-12-10_18-48-22](https://github.com/user-attachments/assets/79e8cbf5-2c7f-45d1-ba0d-c8c7c8424f2e)
-![Uploading photo_2025-12-09_19-32-11.jpg…]()
 
 
 # 👨‍💻 Full-Stack Developer
