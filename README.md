@@ -2,60 +2,6 @@
 ![photo_2025-12-10_18-34-04](https://github.com/user-attachments/assets/a58dedc6-776e-497c-b4af-4ee7dec2e6c7)
 
 
-
-<h1 align="center">Hi 👋, I'm Ali Kaka</h1>
- 
-💻 Full-Stack Web Developer
-
-Building Modern Web Applications with Clean & Scalable Code.
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Laravel+Developer;React+Developer;Frontend+%2B+Backend;Always+Learning+New+Things" /> </p>
-🚀 Tech Stack
-🎨 Front-End
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind,bootstrap" /> </p>
-⚙️ Back-End
-<p> <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" /> </p>
-
-MVC Architecture
-
-REST API Development
-
-🗄 Database
-<p> <img src="https://skillicons.dev/icons?i=mysql,postgres" /> </p>
-🛠 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" /> </p>
-📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alikaka079&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alikaka079&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Alikaka079&theme=tokyonight&hide_border=true)
-🏆 Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=Alikaka079&theme=tokyonight&no-frame=true&row=1&column=6)
-🐍 Contribution Snake
-![Snake animation](https://github.com/Alikaka079/Alikaka079/blob/output/github-contribution-grid-snake-dark.svg)
-🎯 Currently Learning
-Docker
-Node.js
-Clean Architecture
-CI/CD
-📫 Contact Me
-
-📧 aliapmax@gmail.com
-
-💬 Telegram: @Ali7KAKA
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 # 👋 Hi, I'm Ali
