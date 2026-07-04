@@ -121,61 +121,6 @@ REST API • MVC
 
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 🌱 Currently Learning
-
-- Docker
-- Node.js
-- Clean Architecture
-- CI/CD
-
----
-
-# 📫 Contact
-
-<div align="center">
-
-<a href="https://t.me/Ali7KAKA">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="mailto:aliapmax@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile ⭐
