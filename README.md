@@ -86,7 +86,7 @@ REST API • MVC
 
 <div align="center">
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Docker
 - Node.js
@@ -95,16 +95,29 @@ REST API • MVC
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-- Telegram: **@Ali7KAKA**
-- Email: **aliapmax@gmail.com**
+<div align="center">
+
+<a href="https://t.me/Ali7KAKA">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:aliapmax@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:24243e,50:302b63,100:0f0c29&height=120"/>
+
+</div>
 
 </div>
 
@@ -165,7 +178,7 @@ REST API • MVC
 
 <div align="center">
 
-### ⭐ Thanks for Visiting ⭐
+### ⭐ Thanks for visiting my profile ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:24243e,50:302b63,100:0f0c29&height=120"/>
 
