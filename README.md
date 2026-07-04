@@ -33,24 +33,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ali Kaka</h1>
-<h3 align="center">A passionate Full-Stack Developer from Iran</h3>
-
-- 📫 How to reach me **aliapmax@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<
-
-
-
-
-
-
-
-
-ؤ👋 Hi, I'm Ali
+ 
 💻 Full-Stack Web Developer
 
 Building Modern Web Applications with Clean & Scalable Code.
