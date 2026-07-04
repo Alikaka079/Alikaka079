@@ -1,10 +1,8 @@
 
-![photo_2025-12-10_18-34-04](https://github.com/user-attachments/assets/a58dedc6-776e-497c-b4af-4ee7dec2e6c7)
 
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=ALI&fontSize=80&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60"/>
-# 👋 Hi, I'm Ali
 
 ### 💻 Full Stack Developer
 
