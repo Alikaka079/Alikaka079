@@ -58,8 +58,6 @@ Status:
 ```
 
 
-# 💻 Tech Stack
-
 
 ## 🎨 Front-End
 
