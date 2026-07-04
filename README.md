@@ -25,8 +25,38 @@
 Name        : Ali
 Role        : Full Stack Developer
 Country     : Iran
-Experience  : +2 Years
+Experience  : +3 Years
 Status      : Available for work
+
+
+Frontend:
+  - HTML5
+  - CSS3
+  - JavaScript
+  - TypeScript
+  - React
+  - Vue
+  - Angular
+  - Tailwind CSS
+  - Bootstrap
+
+Backend:
+  - PHP
+  - Laravel
+  - MVC
+  - REST API
+
+Database:
+  - MySQL
+
+Tools:
+  - Git
+  - GitHub
+  - VS Code
+
+Status:
+  - Available for Freelance
+```
 ```
 
 
