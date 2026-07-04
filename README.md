@@ -119,8 +119,6 @@ REST API • MVC
 
 </div>
 
-</div>
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile ⭐
