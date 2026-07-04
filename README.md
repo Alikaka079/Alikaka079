@@ -27,8 +27,6 @@ Role        : Full Stack Developer
 Country     : Iran
 Experience  : +3 Years
 Status      : Available for work
-
-
 Frontend:
   - HTML5
   - CSS3
@@ -56,7 +54,6 @@ Tools:
 
 Status:
   - Available for Freelance
-```
 ```
 
 
